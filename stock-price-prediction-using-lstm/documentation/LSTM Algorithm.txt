@@ -1,0 +1,9 @@
+Algorithm:
+
+step 1: Start
+step 2: Collect the stock data of any company
+step 3: Perform the pre-processing on the collected stock data
+step 4: Apply the fundamental and technical analysis on the pre-processed data
+step 5: Train LSTM model with data from step 4. In order to get best accuracy and finally
+        apply sentimental analysis.
+step 6: Stop
