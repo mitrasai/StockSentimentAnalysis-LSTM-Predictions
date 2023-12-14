@@ -17,6 +17,9 @@ This repository hosts a comprehensive project that combines Sentiment Analysis a
 📊 **Usage:**
 1. Install required dependencies using `requirements.txt`.
 2. Run the sentiment analysis and LSTM prediction scripts.
+   
+🔍 Explore the Colab notebook to understand the code implementation.
+     https://colab.research.google.com/drive/1Btjpr5gxDJ54Sr9Xxt0iVafSzuwM8ybJ?usp=sharing
 
 🌐 **Contributing:**
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements. Let's collaborate to enhance the accuracy and usability of the stock prediction system.
